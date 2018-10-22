@@ -1,2 +1,2 @@
 # HelloWorld
-Hacktober repo
+Hacktober repository
